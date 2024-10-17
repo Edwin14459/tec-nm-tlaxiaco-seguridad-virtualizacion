@@ -1,4 +1,4 @@
-# Practica 6 - Creación de un laboratorio de seguridad P1
+# Practica 6 - Unidad 2 Virtualizacion - Creación de un laboratorio de seguridad P1
 
 ## Objetivo
 
@@ -8,7 +8,7 @@ Implementar un laboratorio de seguridad en VirtualBox o VMWare con las siguiente
 
 - Una máquina virtual con Kali Linux configurada como sistema de detección de intrusos.
 
-- Una maquina virtual vulnerable por diseño como MetaSploitable2 sin acceso a internet.
+- Una maquina virtual vulnerable por diseño como MetaSploitable2.
 
 - Ping satisfactorio entre las máquinas virtuales.
 
